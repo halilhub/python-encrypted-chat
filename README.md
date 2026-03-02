@@ -2,7 +2,7 @@
 
 Merhaba! Ben Halil. Bu benim kriptoloji destekli (uçtan uca şifreli - E2EE) IRSSI terminal deneyimim.
 
-![Mr. Robot IRSSI Chat](https://media.giphy.com/media/l41lO6dEwO7TNGzB6/giphy.gif)
+![Mr. Robot IRSSI Chat](https://tenor.com/0hxr.gif)
 
 ## Neden Kriptolojili Yaptım?
 
