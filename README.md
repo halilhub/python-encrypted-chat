@@ -6,9 +6,9 @@ Merhaba! Ben Halil. Bu benim kriptoloji destekli (uçtan uca şifreli - E2EE) IR
 
 ## Neden Kriptolojili Yaptım?
 
-Tamamen "öyle de diyebilirsin" tadında bir deneme. Gerçek ve güvenli bir iletişim ağının nasıl kurulabileceğini görmek istedim. İstemci-sunucu mimarisini asenkron (asyncio) yapıda kurgularken, araya AES-256 (CBC) simetrik şifrelemeyi katarak terminal tabanlı, tamamen şifreli ve IRSSI hissiyatı veren bir deneyim yaratmayı amaçladım.
-
-Eğer biri aradaki ağı (network) dinlemeye kalkarsa, sadece anlamsız, karmaşık Base64 şifreli veriler görecektir.
+Bu proje tamamen deneme amaçlı geliştirildi.
+Amacım, gerçek ve güvenli bir iletişim ağının nasıl kurulabileceğini pratikte görmekti.
+İstemci–sunucu mimarisini asenkron (asyncio) yapıda kurguladım ve iletişim katmanına AES-256 (CBC) simetrik şifreleme ekledim. Böylece terminal tabanlı, tamamen şifreli ve Irssi hissiyatı veren bir deneyim ortaya çıktı.
 
 ## Nasıl Kullanılır?
 
