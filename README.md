@@ -2,7 +2,7 @@
 
 Merhaba! Ben Halil. Bu benim kriptoloji destekli (uçtan uca şifreli - E2EE) IRSSI terminal deneyimim.
 
-![Mr. Robot IRSSI Chat](<div class="tenor-gif-embed" data-postid="8435336107615142483" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/worry-froge-froge-frog-frog-meme-hoodie-gif-8435336107615142483">Worry Froge Frog Meme Sticker</a>from <a href="https://tenor.com/search/worry+froge-stickers">Worry Froge Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Mr. Robot IRSSI Chat](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJldGo2bWFuZzY1aWswMmlzeTJ1anFuN2YyaWEweDZwcm9yMDl4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hIwx7v6vUUAUhHfl0c/giphy.gif)
 
 ## Neden Kriptolojili Yaptım?
 
